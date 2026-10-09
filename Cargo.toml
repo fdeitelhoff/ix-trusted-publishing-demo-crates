@@ -1,6 +1,6 @@
 [package]
 name = "ix-trusted-publishing-demo-crates"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "Minimal example for a technical article about trusted publishing"
 license = "MIT"
