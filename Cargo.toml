@@ -1,0 +1,11 @@
+[package]
+name = "ix-trusted-publishing-demo-crates"
+version = "0.1.0"
+edition = "2024"
+description = "Minimal example for a technical article about trusted publishing"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/fdeitelhoff/ix-trusted-publishing-demo-crates"
+include = ["src/**", "Cargo.toml", "Cargo.lock", "README.md", "LICENSE"]
+
+[dependencies]
